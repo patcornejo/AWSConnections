@@ -1,0 +1,19 @@
+<resources>
+    <!-- AMAZON -->
+    <string name="bucket_name">awsconnections</string>
+    <string name="identity_pool">us-east-1:0b234ddc-6b57-490b-9d57-f5f13e1043fb</string>
+    <string name="account_id">693179346338</string>
+    <string name="unauth_role">arn:aws:iam::693179346338:role/Cognito_ExampleUnauth_Role</string>
+    <string name="auth_role">arn:aws:iam::693179346338:role/Cognito_ExampleAuth_Role</string>
+    <string name="client_id">924882502404-16ak9qtvced5oaf0urjqb7g1cu2uaj8t.apps.googleusercontent.com</string>
+    <string name="analytics_id">f670e438d99c42b69863426d5b635eee</string>
+
+    <string name="app_name">AWS Connections</string>
+    <string name="download_image">Download Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="send_user">Send User</string>
+    <string name="login_with_g">Login with G+</string>
+    <string name="get_config">GET CONFIG</string>
+    <string name="get_products">GET PRODUCTS</string>
+
+</resources>
